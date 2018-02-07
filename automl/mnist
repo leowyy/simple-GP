@@ -1,0 +1,33 @@
+----------------------------- GPyOpt Report file -----------------------------------
+GPyOpt Version 1.2.1
+Date and time:               Wed Feb  7 19:16:01 2018
+Optimization completed:      YES, 55 samples collected.
+Number initial samples:      5 
+Tolerance:                   1e-08.
+Optimization time:           782.189791918 seconds.
+
+-------------------------------- Problem set up ------------------------------------
+Problem name:                no_name
+Problem dimension:           3
+Number continuous variables  2
+Number discrete variables    1
+Number bandits               0
+Noiseless evaluations:       False
+Cost used:                   Used defined cost
+Constrains:                  False
+
+------------------------------ Optimization set up ---------------------------------
+Normalized outputs:          True
+Model type:                  GP
+Model update interval:       1
+Acquisition type:            EI
+Acquisition optimizer:       lbfgs
+Acquisition type:            EI
+Acquisition optimizer:       lbfgs
+Evaluator type (batch size): sequential (1)
+Cores used:                  1
+
+--------------------------------- Summary ------------------------------------------
+Value at minimum:             0.1137
+Best found minimum location:   1.00000000e-04   5.47370395e-02   2.00000000e+02
+----------------------------------------------------------------------------------------------
